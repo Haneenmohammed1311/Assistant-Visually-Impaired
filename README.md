@@ -78,7 +78,6 @@ We built a **mobile AI application** that:
 2. Extract the dataset folder.
 3. Place the folder inside the project root directory.
 **Dataset link:**
-📎 **Dataset access:**  
 🔗 [https://universe.roboflow.com/username/project-name](https://universe.roboflow.com/haneens-projects/assisting-visually-impaired-people/dataset/2)
 
 
