@@ -4,9 +4,11 @@
 Visually impaired people in Egypt face daily challenges related to safe mobility, reading printed text, and handling money independently. Existing assistive solutions are often expensive, not localized for Arabic users, or solve only part of the problem.
 
 This project presents a **low-cost, AI-powered, Arabic-focused assistive system** that helps visually impaired users **navigate streets safely, recognize Egyptian currency, and read printed text** using a smartphone.
+
 ---
 **Link of the Obstacles Notebook for all outputs you need:**
-🔗 [https://www.kaggle.com/code/haneenmohammed13/obstacls-detection-for-blind-people-yolov8]
+ 🔗 [https://www.kaggle.com/code/haneenmohammed13/obstacls-detection-for-blind-people-yolov8]
+
 ---
 
 ## 🎯 Problem Statement
