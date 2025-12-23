@@ -1,5 +1,4 @@
 # **AL Ru'ya**
-![Uploading image.png…]()
 
 # 🦯 Assistive AI System for Visually Impaired People in Egypt
 
