@@ -11,7 +11,26 @@ This project presents a **low-cost, AI-powered, Arabic-focused assistive system*
 - Unsafe street navigation due to obstacles such as uncovered manholes, stairs, cars, dogs, and electric poles  
 - Difficulty reading printed text such as labels, signs, and documents  
 - High risk of financial fraud when handling cash  
-- Limited access to affordable, Arabic-localized assistive technology in Egypt  
+- Limited access to affordable, Arabic-localized assistive technology in Egypt
+- Blind Navigation Assistant - YOLOv8 Object Detection
+Model
+
+📋 Project Overview
+This notebook trains a YOLOv8 object detection model to assist visually impaired individuals in navigating their environment safely. The model detects 11 types of obstacles and hazards in real-time.
+
+
+🎯 Detected Objects
+🚲 Bicycle
+🚌 Bus
+🚗 Car
+🐕 Dog
+⚡ Electric Pole
+🏍️ Motorcycle
+👤 Person
+🚦 Traffic Signs
+🌳 Tree
+⚠️ Uncovered Manhole
+🪜 Stairs
 
 ---
 
@@ -56,3 +75,40 @@ We built a **mobile AI application** that:
 - Source: Roboflow  
 - Size: ~603 MB  
 - Structure:
+
+To use the dataset:
+1. Download it from Roboflow
+2. Place it in the project directory as:
+
+
+---
+
+## 🚀 Future Work
+- Continuous real-time navigation while the user is walking  
+- Adaptive vibration feedback for noisy street environments  
+- Seamless integration of all features without mode switching  
+- Enhanced Arabic Text-to-Speech optimized for Egyptian dialect  
+- Support for new Egyptian banknotes  
+- Training on larger datasets with more Egyptian street obstacles  
+- Offline functionality for all core features  
+- Face recognition and facial expression understanding  
+- Document summarization using Large Language Models (online feature)  
+- User testing, performance optimization, and data privacy enhancements  
+
+---
+
+## 📽️ Demo
+A live or recorded demo demonstrates:
+- Real-time obstacle detection
+- Egyptian currency recognition
+- OCR with Arabic speech output
+
+---
+
+## 👥 Team
+This project was developed by a student team as part of **Samsung Innovation Campus**, focusing on applying AI for social impact and accessibility.
+
+---
+
+## 📜 License
+This project is intended for educational and research purposes.
