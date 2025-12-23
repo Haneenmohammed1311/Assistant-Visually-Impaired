@@ -75,6 +75,10 @@ We built a **mobile AI application** that:
 - Source: Roboflow  
 - Size: ~603 MB  
 - Structure:
+train/
+val/
+test/
+data.yaml
 
 To use the dataset:
 1. Download it from Roboflow
