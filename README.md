@@ -76,7 +76,7 @@ We built a **mobile AI application** that:
 - Size: ~603 MB  
 - Structure:
 Blind-Navigation-Assistant/
-│
+/│
 ├── 📁 data/                    # Data documentation (NOT the actual dataset)
 │   ├── dataset_structure.md     # How the dataset is organized
 │   └── download_instructions.md # How to get the dataset from Roboflow
@@ -102,6 +102,8 @@ Blind-Navigation-Assistant/
 ├── 📄 requirements.txt          # Python dependencies
 ├── 📄 .gitignore               # Ignore large files
 └── 📄 README.md                # Main project README (we'll build this)To use the dataset:
+/
+
 1. Download it from Roboflow
 2. Place it in the project directory as:
 
