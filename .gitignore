@@ -1,14 +1,30 @@
-# Dataset
-AssistantVisuallyImpaired_dataset/
-data/
-datasets/
+# Large dataset files - DO NOT UPLOAD THESE
+data/images/
+data/labels/
+*.zip
+*.tar
+*.tar.gz
 
-# Python
+# Kaggle/Colab files
+.kaggle/
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
+
+# Model checkpoints (except final best models)
+runs/
+weights/epoch_*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+build/
 
 # Environment
 .env
+venv/
+env/
