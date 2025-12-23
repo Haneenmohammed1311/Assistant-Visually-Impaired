@@ -73,39 +73,15 @@ We built a **mobile AI application** that:
 
 ## 📂 Dataset
 - Source: Roboflow  
-- Size: ~603 MB  
-- Structure:
-Blind-Navigation-Assistant/
-/│
-├── 📁 data/                    # Data documentation (NOT the actual dataset)
-│   ├── dataset_structure.md     # How the dataset is organized
-│   └── download_instructions.md # How to get the dataset from Roboflow
-│
-├── 📁 models/                   # Trained models (SMALL files only)
-│   ├── best.pt                  # PyTorch model (~21MB)
-│   ├── best.tflite              # Android model (~21MB)
-│   ├── best.onnx                # Optional: ONNX model
-│   └── model_card.md            # Model specifications
-│
-├── 📁 notebooks/                # Your Kaggle notebook
-│   └── Blind_Navigation_Training.ipynb
-│
-├── 📁 src/                      # Source code (if your friends add app code)
-│   ├── android_app/             # Android application code
-│   └── utils.py                 # Helper functions
-│
-├── 📁 results/                  # Training results (images only)
-│   ├── training_summary.png
-│   └── confusion_matrix.png
-│
-├── 📄 LICENSE                   # Choose a license (MIT recommended)
-├── 📄 requirements.txt          # Python dependencies
-├── 📄 .gitignore               # Ignore large files
-└── 📄 README.md                # Main project README (we'll build this)To use the dataset:
-/
+### How to Use the Dataset
+1. Download the dataset from Roboflow in **YOLOv8 format**.
+2. Extract the dataset folder.
+3. Place the folder inside the project root directory.
+**Dataset link:**
+📎 **Dataset access:**  
+🔗 [https://universe.roboflow.com/username/project-name](https://universe.roboflow.com/haneens-projects/assisting-visually-impaired-people/dataset/2)
 
-1. Download it from Roboflow
-2. Place it in the project directory as:
+
 
 
 ---
