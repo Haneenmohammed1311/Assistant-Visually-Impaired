@@ -103,13 +103,7 @@ We built a **mobile AI application** that:
 
 ---
 
-## 📽️ Demo
-A live or recorded demo demonstrates:
-- Real-time obstacle detection
-- Egyptian currency recognition
-- OCR with Arabic speech output
 
----
 
 ## 👥 Team
 This project was developed by a student team as part of **Samsung Innovation Campus**, focusing on applying AI for social impact and accessibility.
