@@ -1,204 +1,133 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Haneen+Mohammed+Mousa;Data+Science+%26+AI+Practitioner;Computer+Vision+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG" />
+# 🦯 AL Ru'ya — الرؤية
+### Assistive AI System for Visually Impaired People in Egypt
 
-**B.Sc. Statistics & Computer Science · Mansoura University · 2026**
+*Low-cost · Arabic-focused · Mobile-first · AI-powered*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
-[![Email](https://img.shields.io/badge/Email-haneeenmohammid%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20💼-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
-[![Profile Views](https://komarev.com/ghpvc/?username=Haneenmohammed1311&style=flat-square&color=6C63FF)](https://github.com/Haneenmohammed1311)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)](https://ultralytics.com)
+[![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
+[![Roboflow](https://img.shields.io/badge/Roboflow-purple?style=flat-square&logo=roboflow&logoColor=white)](https://roboflow.com)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://android.com)
+[![Hackathon](https://img.shields.io/badge/AL%20Ru'ya%20Hackathon-🥉%203rd%20Place-CD7F32?style=flat-square)](#)
+[![Samsung](https://img.shields.io/badge/Samsung%20Innovation%20Campus-1428A0?style=flat-square&logo=samsung&logoColor=white)](https://samsung.com)
+
+[![Kaggle Notebook](https://img.shields.io/badge/📓%20Obstacle%20Detection%20Notebook-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/haneenmohammed13/obstacls-detection-for-blind-people-yolov8)
+[![Dataset](https://img.shields.io/badge/📦%20Roboflow%20Dataset-View-purple?style=for-the-badge)](https://universe.roboflow.com/haneens-projects/assisting-visually-impaired-people/dataset/2)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 📌 Overview
 
-I'm a passionate Data Science & AI practitioner with hands-on experience across the full ML lifecycle — from exploratory analysis and model building to deployment and automation. My work is grounded in a strong academic foundation in Statistics and Computer Science, enriched by intensive training programs and real-world projects in **Computer Vision**, **Deep Learning**, and **Predictive Analytics**. I believe in building AI solutions that are not just accurate, but practical, scalable, and impactful.
+Visually impaired people in Egypt face serious daily challenges — unsafe street navigation, inability to read printed text, and high risk of financial fraud when handling cash. Existing assistive solutions are either too expensive, not localized for Arabic users, or solve only one part of the problem.
 
-> 🏆 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; 💼 **Actively seeking internships & junior AI/DS roles**
+**AL Ru'ya** (Arabic: الرؤية — *The Vision*) is a **low-cost, AI-powered, Arabic-focused assistive system** that runs entirely on a smartphone. It helps visually impaired users navigate streets safely, recognize Egyptian currency, and read printed text — all through real-time AI on a mobile camera.
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Deployment & MLOps**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+> 🏆 This project was awarded **3rd Place at the AL Ru'ya Hackathon**, developed as part of **Samsung Innovation Campus — AI for Social Impact**.
 
 ---
 
-## 🚀 Projects
+## 🎯 Problem Statement
+
+| Challenge | Description |
+|---|---|
+| 🚧 Unsafe navigation | Obstacles such as uncovered manholes, stairs, cars, dogs, and electric poles cause daily accidents |
+| 📄 Inability to read | Signs, labels, and documents are inaccessible without sighted assistance |
+| 💵 Financial fraud | Difficulty identifying banknote values leads to exploitation |
+| 🌍 No local solution | Existing assistive tools are expensive and not adapted for Arabic or Egyptian context |
 
 ---
 
-### ♿ AL Ru'ya — Assistive AI System for Visually Impaired People in Egypt &nbsp; 🏆 *3rd Place*
+## 💡 Solution
 
-`YOLOv8` `Google ML Kit` `OCR` `Arabic TTS` `Android` `Roboflow` `Python`
+A **mobile Android application** powered by AI that:
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/AL-Ruya-Assistive-System)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Obstacle%20Detection%20Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/haneenmohammed13/obstacls-detection-for-blind-people-yolov8)
-[![Dataset](https://img.shields.io/badge/Roboflow-Dataset-purple?style=flat-square&logo=roboflow)](https://universe.roboflow.com/haneens-projects/assisting-visually-impaired-people/dataset/2)
-
-A **low-cost, Arabic-focused mobile AI system** that tackles 3 daily challenges faced by visually impaired people in Egypt: unsafe street navigation, inability to read printed text, and financial fraud risk when handling cash.
-
-**What it does:**
-- 🚧 **Real-time obstacle detection** using a custom-trained YOLOv8 model — detects 11 classes: cars, buses, motorcycles, bicycles, persons, dogs, trees, electric poles, traffic signs, stairs, and uncovered manholes
-- 💵 **Egyptian banknote recognition** — identifies and announces the value of banknotes for financial independence
-- 🔤 **Arabic OCR + Text-to-Speech** using Google ML Kit — reads signs, labels, and printed text aloud in Arabic
-- 📱 **Android mobile app** — camera-based, with simple swipe gestures to switch between modes. Runs fully on-device
-
-*Developed as part of Samsung Innovation Campus — AI for Social Impact track.*
+- 🚧 Detects real-time street obstacles and warns the user via voice
+- 💵 Recognizes Egyptian banknotes and announces their value
+- 🔤 Reads printed Arabic text aloud using OCR and Text-to-Speech
+- 📱 Runs fully on-device via smartphone camera — no internet required for core features
+- 👆 Simple swipe gestures to switch between detection modes
 
 ---
 
-### 🤖 Smart Attendance System — Face Recognition
+## ✅ Implemented Features
 
-`Face Recognition` `OpenCV` `Deep Learning` `Flask` `SQLite` `Python`
+### 🚧 Obstacle Detection
+- Trained a **custom YOLOv8 model from scratch** on an Egyptian street dataset
+- Detects **11 obstacle classes** in real time:
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System)
+| | | | |
+|---|---|---|---|
+| 🚲 Bicycle | 🚌 Bus | 🚗 Car | 🐕 Dog |
+| ⚡ Electric Pole | 🏍️ Motorcycle | 👤 Person | 🚦 Traffic Signs |
+| 🌳 Tree | ⚠️ Uncovered Manhole | 🪜 Stairs | |
 
-Contactless automated attendance system that detects and recognizes faces in real time, handles varying lighting and angles, and logs attendance with timestamps into a database. Includes a Flask admin dashboard to view, filter, and export records — replacing manual roll-calls entirely.
+### 💵 Currency Recognition
+- Detects and announces the value of **Egyptian banknotes** in real time
+- Provides financial independence for visually impaired users
 
----
+### 🔤 OCR & Arabic Text-to-Speech
+- Uses **Google ML Kit** to recognize printed text from signs, labels, and documents
+- Converts recognized text into **Arabic speech** immediately
 
-### 🌿 Plant Leaf Disease Detection — Deep Learning & Computer Vision
+### 📱 Mobile Integration
+- Camera-based interaction with simple **swipe gestures** to switch between modes
+- All core features run **fully on-device** with low latency
 
-`CNN` `Transfer Learning` `Flask` `Hugging Face API` `Telegram Bot` `Docker`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Plant-Disease-Detection)
-
-End-to-end plant disease diagnosis system using CNNs (from scratch + transfer learning). Deployed as a Flask web app and a Telegram chatbot powered by the Hugging Face API for real-time predictions. Automated alert and reporting pipelines via Make.com. Fully containerized with Docker.
-
----
-
-### 🌱 Crop Recommendation System — Agritech ML
-
-`Machine Learning` `EDA` `Feature Engineering` `Scikit-learn` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Crop-Recommendation-System)
-
-ML classification system that recommends optimal crops based on soil parameters (N, P, K, pH) and climate data. Benchmarked multiple models (Random Forest, SVM, KNN, Naive Bayes) with cross-validation and visualized feature importances for interpretable, smart-farming decisions.
+> All features listed above are **fully implemented and demo-ready**.
 
 ---
 
-### 📈 HR Attrition Prediction — Predictive Analytics
+## 🛠️ Technologies & Tools
 
-`Machine Learning` `SMOTEENN` `EDA` `Power BI` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/HR-Attrition-Prediction)
-
-Predictive pipeline identifying employees at risk of attrition. Addressed severe class imbalance with SMOTEENN. Surfaced key drivers (overtime, satisfaction, tenure) through deep EDA. Delivered an interactive Power BI dashboard and a Streamlit app for instant HR predictions.
-
----
-
-### 🛒 Online Sales Analysis — Business Intelligence
-
-`Power BI` `Data Storytelling` `Business Analytics`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Online-Sales-Analysis)
-
-Multi-page interactive Power BI dashboard covering sales KPIs, regional breakdowns, product performance, and seasonal trends — translating complex sales data into clear, decision-ready insights for business stakeholders.
+| Component | Technology |
+|---|---|
+| Object Detection | YOLOv8 (Ultralytics) |
+| OCR & Text-to-Speech | Google ML Kit |
+| Dataset Management | Roboflow |
+| Language | Python |
+| Platform | Android Mobile Application |
 
 ---
 
-### 🔍 Customer Segmentation — Unsupervised Learning
+## 📂 Dataset
 
-`K-Means` `PCA` `Elbow Method` `Silhouette Analysis`
+- **Source:** Roboflow — custom dataset built for Egyptian street environments
+- **Format:** YOLOv8-compatible
+- **Classes:** 11 obstacle types
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Clustering-Analysis)
+**How to use:**
+1. Download the dataset from Roboflow in **YOLOv8 format**
+2. Extract the dataset folder
+3. Place it inside the project root directory
 
-Customer segmentation pipeline using K-Means with optimal cluster selection via the Elbow Method and Silhouette Analysis. Applied PCA for 2D/3D visualization and extracted actionable behavioral personas per cluster.
-
----
-
-## 🎓 Education & Training
-
-**🎓 B.Sc. Statistics & Computer Science** — Mansoura University &nbsp;|&nbsp; *2022 – 2026* &nbsp;|&nbsp; GPA: Very Good
-
----
-
-**📘 Samsung Innovation Campus (SIC) — AI Track** &nbsp;|&nbsp; *Aug 2025 – Dec 2026* &nbsp; 🟢 *In Progress*
-
-Deep Learning · Computer Vision · NLP · LLMs · MLOps · MLflow · Web Deployment · Prompt Engineering · Agentic AI & Automation
+[![Dataset](https://img.shields.io/badge/📦%20Download%20Dataset-Roboflow-purple?style=flat-square)](https://universe.roboflow.com/haneens-projects/assisting-visually-impaired-people/dataset/2)
 
 ---
 
-**📘 Digital Egypt Pioneers Initiative (DEPI) — Data Science Track** &nbsp;|&nbsp; *Oct 2024 – May 2025* &nbsp; ✅ *Completed*
+## 🚀 Future Work
 
-Python · SQL · Data Analysis · EDA · Machine Learning · MLOps · Data Visualization · 120+ technical hrs · 48+ professional hrs
-
----
-
-## 🌐 Community & Leadership
-
-**🔷 IEEE Mansoura University Student Branch — Advanced Level Supervisor**
-
-Supervised students in advanced AI and data science tracks, contributed to curriculum design for advanced-level programs, and organized workshops and knowledge-sharing sessions within the IEEE student community at Mansoura University.
-
----
-
-## 🏆 Achievements
-
-🥉 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; Assistive AI for the visually impaired — YOLOv8, Arabic OCR, TTS & Egyptian banknote recognition
+- [ ] Continuous real-time navigation while walking (no mode switching)
+- [ ] Adaptive vibration feedback for noisy street environments
+- [ ] Enhanced Arabic TTS optimized for Egyptian dialect
+- [ ] Support for newly issued Egyptian banknotes
+- [ ] Training on larger, more diverse Egyptian street datasets
+- [ ] Full offline functionality for all features
+- [ ] Face recognition and facial expression understanding
+- [ ] Document summarization using Large Language Models (online feature)
+- [ ] User testing, performance optimization, and data privacy enhancements
 
 ---
 
-## 📊 GitHub Stats
+## 👥 Team
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+Developed by a student team as part of **Samsung Innovation Campus**, applying AI for social impact and accessibility in Egypt.
 
 ---
 
-<div align="center">
-<b>💼 Open to internships & junior roles in Data Science, ML & AI Engineering</b><br/><br/>
+## 📜 License
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
-
-<sub>⭐ If any of my projects helped you, a star is always appreciated!</sub>
-</div>
+This project is intended for **educational and research purposes**.
